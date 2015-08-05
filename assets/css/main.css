@@ -1,0 +1,8 @@
+html, body {
+    margin:0;
+}
+#banner {
+    background-color: #e4e6ea;
+    width: 100%;
+    height: 100%;
+}
